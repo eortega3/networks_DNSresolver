@@ -1,0 +1,37 @@
+COMP 375 - Project 3 - Spring 2019
+
+1. Partner 1's FULL Name: Eduardo Ortega
+   Partner 1's USD Email Address: eortega@sandiego.edu
+   Partner 2's FULL Name: Gretta Von Tobel
+   Partner 2's USD Email Address: gvontobel@sandiego.edu
+
+
+2. A typed copy of USD's academic integrity pledge, followed by each partners'
+   typed initials (as a way of "signing the pledge.").
+
+   I pledge to demonstrate personal and academic integrity in all matters with my
+fellow students, the faculty, and the administration here at USD. I promise to be
+honest and accountable for my actions; and to uphold the statutes of scholastic
+honesty to better myself and those around me.
+
+GVT
+EO
+
+
+3. The estimated number of hours spent working on the project.
+		- Time spent partner 1 spent working alone: ~20
+		- Time spent partner 2 spent working alone: ~20
+		- Time spent working together: 10-15 
+
+
+4. A list of missing features and/or known bugs. (Put "None if there aren't
+   any.)
+   Trump.ru and Mail.ru work intermittedly. This seems to be the case for all .ru cases 
+
+
+5. Did you submit on time? (If not, you will be charged one comp375 buck.)
+We each used a comp buck!
+
+
+6. (Optional) Any feedback you with to give me relating the project (e.g. Was it
+   interesting? How could it be improved?)
